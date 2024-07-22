@@ -11,7 +11,8 @@ The study aims to streamline the design process for engineers, with the software
 ## Download Link: https://drive.google.com/file/d/1y2wQ8nwqhF-5reJdWOi7mn37EW1XOAIE/view?usp=sharing
 
 
-Developed by :
+Developed by-
 
 Dr. Samarth Godara, ICAR-IASRI, New Delhi, India
+
 Mr. Madhur Behl, IIT Kharagpur, West Bengal, India
