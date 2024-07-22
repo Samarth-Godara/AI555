@@ -9,3 +9,9 @@ The approach combines grid-based and gradient-based search techniques to offer m
 The study aims to streamline the design process for engineers, with the software and source code available on GitHub. This research addresses the gap in finding feasible solutions for desired timing periods in 555 timer circuits.
 
 ## Download Link: https://drive.google.com/file/d/1y2wQ8nwqhF-5reJdWOi7mn37EW1XOAIE/view?usp=sharing
+
+
+Developed by :
+
+Dr. Samarth Godara, ICAR-IASRI, New Delhi, India
+Mr. Madhur Behl, IIT Kharagpur, West Bengal, India
